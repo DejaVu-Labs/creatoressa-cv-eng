@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.creatoressa.ru	TRUE	/	FALSE	1999999999	__ddg8_	nl7R5ojz2WJw8ZWu
-.creatoressa.ru	TRUE	/	FALSE	1999999999	__ddg10_	1747567317
-.creatoressa.ru	TRUE	/	FALSE	1999999999	__ddg9_	77.238.241.20
-.creatoressa.ru	TRUE	/	FALSE	1999999999	__ddg1_	T6pfOFjmKZUlbKFFPOE2
-

@@ -1,7 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-14:21:54	179/179	---M-Z	200	added ('OK')	text/plain	etag:%22164-62f29ffc4719a-gzip%22	https://creatoressa.ru/robots.txt		(from )
-14:21:55	344226/344226	---M-Z	200	added ('OK')	text/html	etag:%22540a2-6326fa9d3e709-gzip%22	https://creatoressa.ru/cv/eng/	./creatoressa-eng/cv/eng/index.html	(from )
-14:21:55	340/340	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%22154-56d5bbe607fc0%22	https://creatoressa.ru/cv/eng/eng/article3	./creatoressa-eng/cv/eng/eng/article3	(from https://creatoressa.ru/cv/eng/)
-14:21:56	738/738	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%222e2-62ddcd3ac180a%22	https://creatoressa.ru/cv/eng/eng/article2	./creatoressa-eng/cv/eng/eng/article2	(from https://creatoressa.ru/cv/eng/)
-14:21:57	340/340	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%22154-56d5bbe607fc0%22	https://creatoressa.ru/cv/eng/OPR/	./creatoressa-eng/cv/eng/OPR/index.html	(from https://creatoressa.ru/cv/eng/)
-14:21:57	738/738	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%222e2-62ddcd3ac180a%22	https://creatoressa.ru/cv/eng/eng/article1	./creatoressa-eng/cv/eng/eng/article1	(from https://creatoressa.ru/cv/eng/)
